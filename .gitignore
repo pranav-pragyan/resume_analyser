@@ -3,4 +3,4 @@ files/
 .venv
 .mypy_cache
 __pycache__
-resume_analyser
+resume_analyser/
